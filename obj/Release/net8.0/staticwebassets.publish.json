@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "TrgXdV/BPGVxwnNqULMT2vsqH7NbKo5ReFGnc1XSK8k=",
+  "Source": "backend02",
+  "BasePath": "_content/backend02",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "backend02\\wwwroot",
+      "Source": "backend02",
+      "ContentRoot": "D:\\Code\\SENAI-EXERCICIOS\\backend02\\wwwroot\\",
+      "BasePath": "_content/backend02",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Code\\SENAI-EXERCICIOS\\backend02\\wwwroot\\index.html",
+      "SourceId": "backend02",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Code\\SENAI-EXERCICIOS\\backend02\\wwwroot\\",
+      "BasePath": "_content/backend02",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

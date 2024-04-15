@@ -1,0 +1,6 @@
+D:\Code\SENAI-EXERCICIOS\backend02\obj\Debug\net6.0\backend02.csproj.AssemblyReference.cache
+D:\Code\SENAI-EXERCICIOS\backend02\obj\Debug\net6.0\backend02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SENAI-EXERCICIOS\backend02\obj\Debug\net6.0\backend02.AssemblyInfoInputs.cache
+D:\Code\SENAI-EXERCICIOS\backend02\obj\Debug\net6.0\backend02.AssemblyInfo.cs
+D:\Code\SENAI-EXERCICIOS\backend02\obj\Debug\net6.0\backend02.csproj.CoreCompileInputs.cache
+D:\Code\SENAI-EXERCICIOS\backend02\obj\Debug\net6.0\backend02.MvcApplicationPartsAssemblyInfo.cache

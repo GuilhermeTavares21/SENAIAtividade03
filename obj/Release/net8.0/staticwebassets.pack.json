@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Code\\SENAI-EXERCICIOS\\backend02\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.backend02.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.backend02.props",
+      "PackagePath": "build\\backend02.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.backend02.props",
+      "PackagePath": "buildMultiTargeting\\backend02.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.backend02.props",
+      "PackagePath": "buildTransitive\\backend02.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
